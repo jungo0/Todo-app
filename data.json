@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "계획 세우기",
+      "checked": true
+    },
+    {
+      "id": "4d28ae4c-2518-4716-bab1-d66f4b12b99e",
+      "text": "복습 하기",
+      "checked": true
+    },
+    {
+      "id": "92309312-5ffd-47de-9832-937ead3e3e90",
+      "text": "줌 미팅",
+      "checked": true
+    },
+    {
+      "id": "0ccb9791-e88a-4934-a923-8f2c19353b23",
+      "text": "산책 하기",
+      "checked": true
+    }
+  ]
+}
