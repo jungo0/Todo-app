@@ -1,4 +1,3 @@
-import { BsSun, BsMoonStars } from 'react-icons/bs';
 import useDarkMode, { useDark } from '../hooks/useDarkMode';
 import { MdOutlineDarkMode } from 'react-icons/md';
 import { FiSun } from 'react-icons/fi';
